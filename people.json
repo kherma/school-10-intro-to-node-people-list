@@ -1,0 +1,142 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Rachel",
+    "lastName": "Crunnel",
+    "age": 72,
+    "email": "rachel.crunnel@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Rachel",
+    "lastName": "Bowler",
+    "age": 28,
+    "email": "rachel.bowler@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Lauren",
+    "lastName": "Amar",
+    "age": 61,
+    "email": "lauren.amar@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Rachel",
+    "lastName": "Eerson",
+    "age": 22,
+    "email": "rachel.eerson@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Richard",
+    "lastName": "Eerson",
+    "age": 25,
+    "email": "richard.eerson@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Josh",
+    "lastName": "Eerson",
+    "age": 53,
+    "email": "josh.eerson@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Lauren",
+    "lastName": "Derie",
+    "age": 25,
+    "email": "lauren.derie@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Rachel",
+    "lastName": "Amar",
+    "age": 53,
+    "email": "rachel.amar@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Lauren",
+    "lastName": "Derie",
+    "age": 28,
+    "email": "lauren.derie@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Steve",
+    "lastName": "Derie",
+    "age": 23,
+    "email": "steve.derie@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Mitis",
+    "lastName": "Eerson",
+    "age": 24,
+    "email": "mitis.eerson@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Kate",
+    "lastName": "Bowler",
+    "age": 23,
+    "email": "kate.bowler@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sam",
+    "lastName": "Bowler",
+    "age": 71,
+    "email": "sam.bowler@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Rachel",
+    "lastName": "Bowler",
+    "age": 59,
+    "email": "rachel.bowler@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Kate",
+    "lastName": "Crunnel",
+    "age": 67,
+    "email": "kate.crunnel@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Josh",
+    "lastName": "Bowler",
+    "age": 23,
+    "email": "josh.bowler@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Steve",
+    "lastName": "Eerson",
+    "age": 50,
+    "email": "steve.eerson@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sarah",
+    "lastName": "Derie",
+    "age": 32,
+    "email": "sarah.derie@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Richard",
+    "lastName": "Eerson",
+    "age": 74,
+    "email": "richard.eerson@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Lauren",
+    "lastName": "Amar",
+    "age": 69,
+    "email": "lauren.amar@gmail.com"
+  }
+]
